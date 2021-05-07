@@ -20,5 +20,8 @@
         "*://*.google.com/",
         "webRequestBlocking",
         "<all_urls>"
-    ]
+    ],
+    "icons": {
+        "16": "blocker_icon.png"
+    }
 }
